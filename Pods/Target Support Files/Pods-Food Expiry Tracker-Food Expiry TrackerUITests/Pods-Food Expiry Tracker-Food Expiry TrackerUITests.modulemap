@@ -1,0 +1,6 @@
+framework module Pods_Food_Expiry_Tracker_Food_Expiry_TrackerUITests {
+  umbrella header "Pods-Food Expiry Tracker-Food Expiry TrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
